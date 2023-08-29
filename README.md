@@ -3,7 +3,7 @@ IBM Data Science Specialization: Coursera
 
 
 
-What you'll learn
+What you'll learn,,,
 Play the role of a Data Scientist / Data Analyst working on a real project.
 
 Demonstrate your Skills in Python - the language of choice for Data Science and Data Analysis. 
