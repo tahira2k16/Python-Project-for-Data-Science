@@ -1,4 +1,4 @@
-# WebScrapping Proect with Tesla Stock Dataset
+# WebScrapping Project with Tesla Stock Dataset
 
 Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook.
 
